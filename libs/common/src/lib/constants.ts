@@ -1,3 +1,3 @@
-export const contants = {
+export const constants = {
   COMPANY_NAME: 'Monorepo'
 };
